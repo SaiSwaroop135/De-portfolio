@@ -1,0 +1,5 @@
+city,temperature,windspeed,condition,fetched_at
+Hyderabad,34.3,12.5,Hot,2026-04-24 08:36:31
+Mumbai,30.3,12.7,Hot,2026-04-24 08:36:31
+Delhi,38.8,5.6,Hot,2026-04-24 08:36:32
+Bangalore,32.9,10.5,Hot,2026-04-24 08:36:33
